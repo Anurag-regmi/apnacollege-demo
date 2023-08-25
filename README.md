@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Anurag regmi
+Author - Anurag regmi(Armaan)
